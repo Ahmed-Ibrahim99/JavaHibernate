@@ -24,7 +24,7 @@ This is a simple Java application that demonstrates how to perform CRUD (Create,
 ### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/your-repository/hibernate-crud-example.git
+git clone https://github.com/Ahmed-Ibrahim99/JavaHibernate.git
 cd hibernate-crud-example
 ```
 ### Step 2: Configure PostgreSQL
